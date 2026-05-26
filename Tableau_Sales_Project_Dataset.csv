@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Region,Category,Segment,Ship_Mode,Sales,Profit,Quantity
+ORD0001,02/06/2025,North,Furniture,Home Office,Standard Class,9687.37,1589.6,1
+ORD0002,24/10/2025,South,Office Supplies,Corporate,Second Class,26919.27,4935.62,4
+ORD0003,06/07/2025,East,Technology,Corporate,Second Class,6725.68,1614.14,5
+ORD0004,13/09/2025,West,Technology,Corporate,Second Class,1583.5,201.52,5
+ORD0005,29/06/2025,East,Technology,Corporate,First Class,25329.4,5176.35,2
+ORD0006,26/06/2025,North,Office Supplies,Corporate,First Class,21784.54,3497.64,4
+ORD0007,07/04/2025,South,Furniture,Corporate,Standard Class,18182.52,2907.16,5
+ORD0008,17/05/2025,South,Technology,Corporate,Second Class,1110.59,152.86,3
+ORD0009,12/12/2025,North,Furniture,Corporate,Standard Class,38374.96,8335.35,6
+ORD0010,21/04/2025,East,Technology,Home Office,Standard Class,31284.47,3713.69,9
+ORD0011,23/01/2025,West,Office Supplies,Consumer,First Class,15097.74,1158.17,8
+ORD0012,12/07/2025,North,Technology,Consumer,First Class,43837.42,10018.46,2
+ORD0013,20/08/2025,South,Office Supplies,Corporate,Second Class,39725.52,9411.76,5
+ORD0014,22/09/2025,South,Furniture,Home Office,Standard Class,26029.9,2391.52,10
+ORD0015,10/06/2025,North,Technology,Consumer,First Class,40172.15,9282.96,4
+ORD0016,24/02/2025,South,Technology,Home Office,First Class,33969.52,5414.85,2
+ORD0017,10/05/2025,North,Technology,Consumer,Second Class,41233.84,5475.13,5
+ORD0018,20/08/2025,East,Technology,Home Office,First Class,23413.2,2478.39,5
+ORD0019,07/08/2025,East,Furniture,Corporate,First Class,28236.8,4786.07,9
+ORD0020,16/05/2025,South,Furniture,Corporate,Standard Class,4665.77,1045.9,5
+ORD0021,02/11/2025,East,Technology,Consumer,Second Class,5322.44,643.75,9
+ORD0022,20/03/2025,South,Technology,Corporate,Standard Class,9369.08,1342.67,6
+ORD0023,04/12/2025,West,Technology,Consumer,Second Class,43354.54,8549.71,7
+ORD0024,07/03/2025,West,Furniture,Home Office,Standard Class,46976.02,10605.7,7
+ORD0025,15/08/2025,West,Technology,Consumer,First Class,47041.96,4230.75,2
+ORD0026,19/09/2025,West,Office Supplies,Corporate,Standard Class,12300.62,836.51,9
+ORD0027,12/06/2025,South,Office Supplies,Corporate,Standard Class,44187.6,10483.2,6
+ORD0028,26/08/2025,North,Furniture,Home Office,Second Class,33984.91,3735.03,1
+ORD0029,03/01/2025,North,Technology,Corporate,Second Class,13480.93,2001.86,7
+ORD0030,05/10/2025,West,Office Supplies,Corporate,First Class,19079.95,3563.47,1
+ORD0031,08/05/2025,South,Technology,Corporate,Second Class,48769.22,4625.38,4
+ORD0032,13/01/2025,South,Technology,Consumer,First Class,7921.13,960.24,1
+ORD0033,02/10/2025,South,Technology,Consumer,Standard Class,31694.85,1775.6,4
+ORD0034,07/10/2025,West,Furniture,Home Office,First Class,14401.52,2219.11,1
+ORD0035,14/07/2025,West,Furniture,Corporate,Standard Class,40665.77,9474.94,9
+ORD0036,02/09/2025,East,Technology,Corporate,Second Class,2996.97,391.83,8
+ORD0037,07/07/2025,South,Furniture,Consumer,Standard Class,9867.47,1334.72,5
+ORD0038,14/07/2025,South,Technology,Consumer,First Class,21905.24,5365.35,6
+ORD0039,09/03/2025,North,Technology,Consumer,Second Class,33018.79,8176.38,10
+ORD0040,20/08/2025,North,Technology,Corporate,First Class,9184.96,1241.23,6
+ORD0041,30/10/2025,West,Office Supplies,Consumer,Standard Class,1198.8,63.78,7
+ORD0042,13/12/2025,South,Furniture,Consumer,First Class,38822.58,4007.48,2
+ORD0043,21/10/2025,South,Furniture,Consumer,First Class,46818.67,4263.83,1
+ORD0044,08/08/2025,East,Office Supplies,Consumer,Second Class,27265.01,6575.8,5
+ORD0045,19/11/2025,East,Technology,Home Office,Second Class,49763.08,4699.05,5
+ORD0046,06/10/2025,South,Office Supplies,Consumer,Second Class,4056.08,317.93,3
+ORD0047,09/06/2025,North,Furniture,Consumer,First Class,3344.79,223.39,10
+ORD0048,06/06/2025,West,Furniture,Consumer,First Class,3157.18,497.73,2
+ORD0049,18/12/2025,West,Technology,Corporate,Second Class,20678.21,3092.5,3
+ORD0050,08/05/2025,West,Technology,Consumer,Standard Class,11601.94,863.02,3
+ORD0051,30/08/2025,North,Furniture,Consumer,Second Class,13404.88,1534.65,4
+ORD0052,01/02/2025,East,Office Supplies,Consumer,First Class,15013.07,1362.5,9
+ORD0053,16/11/2025,North,Office Supplies,Consumer,Second Class,6354.66,318.22,6
+ORD0054,15/10/2025,South,Furniture,Consumer,Second Class,33182.45,4246.32,5
+ORD0055,08/11/2025,South,Office Supplies,Consumer,First Class,25010.56,1604.34,10
+ORD0056,21/06/2025,South,Technology,Consumer,First Class,1747.98,356.61,9
+ORD0057,16/04/2025,East,Furniture,Consumer,First Class,42997,8258.78,5
+ORD0058,18/05/2025,East,Furniture,Home Office,First Class,8551.85,1887.42,7
+ORD0059,25/11/2025,North,Furniture,Home Office,Second Class,23844.77,1831.86,4
+ORD0060,04/12/2025,South,Furniture,Home Office,First Class,22944.15,2616.58,7
+ORD0061,10/12/2025,North,Technology,Corporate,First Class,21553.15,1552.97,10
+ORD0062,22/06/2025,North,Furniture,Home Office,First Class,13643.76,2257.4,8
+ORD0063,10/10/2025,East,Technology,Home Office,First Class,21638.01,2869.57,3
+ORD0064,26/12/2025,South,Office Supplies,Consumer,Second Class,7149.87,1494.16,3
+ORD0065,28/02/2025,East,Technology,Corporate,First Class,3254.26,625.1,6
+ORD0066,08/07/2025,South,Furniture,Home Office,Second Class,7046.29,1402.76,1
+ORD0067,09/10/2025,East,Furniture,Consumer,Standard Class,34915.62,3599.07,2
+ORD0068,06/06/2025,North,Furniture,Consumer,Standard Class,24269.02,1552.99,3
+ORD0069,11/09/2025,West,Technology,Home Office,Standard Class,44479.79,4605.78,8
+ORD0070,08/11/2025,South,Technology,Consumer,Second Class,24768.96,3701.61,9
+ORD0071,13/02/2025,South,Technology,Home Office,Standard Class,43107.69,10147.7,4
+ORD0072,26/01/2025,South,Furniture,Consumer,Second Class,30172.9,6097.15,10
+ORD0073,19/07/2025,North,Furniture,Consumer,First Class,43108.07,5975.48,6
+ORD0074,01/05/2025,East,Technology,Consumer,Standard Class,3022.07,261.02,1
+ORD0075,09/03/2025,West,Furniture,Corporate,First Class,35021.95,1894.99,3
+ORD0076,26/10/2025,North,Technology,Corporate,Standard Class,12592.84,2721.7,4
+ORD0077,26/11/2025,West,Technology,Home Office,Second Class,18354.81,3618.16,1
+ORD0078,19/11/2025,East,Office Supplies,Corporate,Second Class,36551.97,3516.54,8
+ORD0079,20/09/2025,West,Furniture,Consumer,Standard Class,21566.54,1802.9,7
+ORD0080,27/11/2025,West,Furniture,Consumer,Standard Class,44859.35,3662.74,8
+ORD0081,25/05/2025,East,Office Supplies,Corporate,First Class,17882.48,1353.32,4
+ORD0082,27/01/2025,South,Office Supplies,Consumer,Standard Class,14635.64,1025.36,8
+ORD0083,30/12/2025,North,Furniture,Home Office,First Class,33259.46,5364.06,2
+ORD0084,02/10/2025,East,Office Supplies,Corporate,First Class,17579.38,2589.99,7
+ORD0085,07/02/2025,North,Office Supplies,Home Office,Second Class,45718.09,10453.53,10
+ORD0086,15/09/2025,North,Technology,Corporate,First Class,7525.72,1704.84,6
+ORD0087,17/02/2025,North,Furniture,Corporate,First Class,38597.24,7437.91,10
+ORD0088,30/09/2025,West,Technology,Corporate,Standard Class,6753.24,932.74,7
+ORD0089,23/12/2025,South,Technology,Corporate,Standard Class,1195.24,288.02,5
+ORD0090,07/04/2025,South,Office Supplies,Corporate,Second Class,9848.48,794.1,3
+ORD0091,01/06/2025,North,Office Supplies,Corporate,Second Class,40950.77,4354.63,3
+ORD0092,28/08/2025,South,Furniture,Corporate,First Class,31734.22,2255.99,9
+ORD0093,20/07/2025,South,Office Supplies,Home Office,First Class,33049.11,1875.38,6
+ORD0094,27/10/2025,South,Furniture,Consumer,First Class,15535.88,1444.26,8
+ORD0095,28/09/2025,East,Technology,Home Office,First Class,1968.81,237.74,7
+ORD0096,26/01/2025,East,Office Supplies,Corporate,Standard Class,9163.75,1503.59,1
+ORD0097,03/07/2025,East,Office Supplies,Corporate,Second Class,10473.73,2418.29,3
+ORD0098,12/12/2025,East,Furniture,Home Office,Standard Class,36259.45,5697.55,6
+ORD0099,14/02/2025,North,Office Supplies,Corporate,Second Class,34445.29,8046.5,5
+ORD0100,31/10/2025,East,Office Supplies,Corporate,Second Class,30210.33,2835.57,8
+ORD0101,18/07/2025,North,Furniture,Corporate,Second Class,4117.65,941.63,7
+ORD0102,24/02/2025,West,Technology,Corporate,Standard Class,14532.83,872.02,2
+ORD0103,11/12/2025,North,Office Supplies,Consumer,Standard Class,32697.92,7108.42,3
+ORD0104,13/02/2025,East,Furniture,Corporate,First Class,47197.65,10666.01,1
+ORD0105,24/02/2025,West,Technology,Home Office,First Class,17130.23,1765.69,3
+ORD0106,21/03/2025,North,Furniture,Corporate,First Class,12338.89,1237.95,10
+ORD0107,01/12/2025,East,Office Supplies,Home Office,First Class,16796.22,2114.99,2
+ORD0108,11/04/2025,North,Office Supplies,Consumer,Second Class,36098.32,5566.26,4
+ORD0109,19/04/2025,West,Furniture,Consumer,First Class,42790.75,2775.72,9
+ORD0110,12/03/2025,South,Furniture,Consumer,First Class,39980.59,6338.54,7
+ORD0111,23/04/2025,North,Technology,Home Office,Standard Class,31812.58,2856.82,9
+ORD0112,27/09/2025,West,Technology,Corporate,Standard Class,31140.44,5340.32,10
+ORD0113,04/12/2025,South,Furniture,Home Office,First Class,18495.79,1587.94,9
+ORD0114,06/10/2025,East,Furniture,Home Office,Standard Class,15746.26,3501.83,7
+ORD0115,02/06/2025,West,Office Supplies,Home Office,Second Class,43805.42,3378.58,3
+ORD0116,02/10/2025,North,Office Supplies,Corporate,First Class,8624.7,2009.87,8
+ORD0117,11/11/2025,East,Office Supplies,Consumer,Standard Class,1653.55,361.74,7
+ORD0118,01/10/2025,East,Technology,Consumer,Standard Class,3923.27,644.26,6
+ORD0119,31/08/2025,South,Technology,Consumer,Standard Class,9622.28,2134.71,8
+ORD0120,04/07/2025,North,Furniture,Home Office,Second Class,13109.16,3174.48,9
+ORD0121,23/11/2025,North,Technology,Consumer,Standard Class,33123.92,3231.67,10
+ORD0122,05/02/2025,East,Technology,Corporate,Second Class,28044.26,4378.09,3
+ORD0123,07/01/2025,East,Office Supplies,Home Office,First Class,48204.69,6591.26,10
+ORD0124,06/05/2025,South,Technology,Home Office,Second Class,10028.7,1742.98,2
+ORD0125,23/05/2025,West,Office Supplies,Home Office,Second Class,49254.93,3558.37,2
+ORD0126,12/03/2025,East,Office Supplies,Consumer,Standard Class,6785.72,359.92,2
+ORD0127,03/04/2025,North,Technology,Corporate,Second Class,17899.84,3352.47,9
+ORD0128,03/02/2025,South,Furniture,Home Office,First Class,12022.74,1719.36,6
+ORD0129,30/01/2025,South,Furniture,Consumer,First Class,23406.12,3426.07,1
+ORD0130,30/03/2025,East,Technology,Home Office,First Class,48559.33,4900.69,2
+ORD0131,07/02/2025,West,Office Supplies,Consumer,Second Class,39203.92,5059.05,1
+ORD0132,20/09/2025,East,Furniture,Consumer,Standard Class,27882.21,6651.83,2
+ORD0133,25/06/2025,East,Office Supplies,Corporate,First Class,36622.98,4450.99,6
+ORD0134,24/02/2025,West,Office Supplies,Corporate,First Class,9519.36,1116.07,8
+ORD0135,12/12/2025,South,Furniture,Home Office,Standard Class,2665.04,158.21,6
+ORD0136,26/01/2025,West,Technology,Home Office,First Class,35773.91,2723.38,3
+ORD0137,03/06/2025,South,Office Supplies,Corporate,Second Class,44050.29,8369.38,8
+ORD0138,19/06/2025,South,Furniture,Consumer,Standard Class,22946.69,3120.12,6
+ORD0139,16/05/2025,West,Office Supplies,Corporate,Second Class,25326.18,1540.12,1
+ORD0140,23/05/2025,East,Office Supplies,Consumer,Standard Class,5282.92,1185.35,7
+ORD0141,24/09/2025,South,Office Supplies,Home Office,Standard Class,32388.85,6031.93,2
+ORD0142,17/02/2025,North,Office Supplies,Corporate,Second Class,40610.48,3168.64,3
+ORD0143,05/04/2025,South,Technology,Consumer,First Class,34665.87,3427.91,5
+ORD0144,09/08/2025,South,Office Supplies,Consumer,Second Class,32418.17,6437.95,1
+ORD0145,03/03/2025,West,Technology,Corporate,First Class,18444.47,1439.83,7
+ORD0146,04/08/2025,West,Office Supplies,Home Office,Standard Class,23209.81,5518.85,2
+ORD0147,13/06/2025,West,Office Supplies,Corporate,First Class,8991.09,593.64,4
+ORD0148,07/02/2025,South,Technology,Home Office,Standard Class,1449.01,356.6,9
+ORD0149,18/06/2025,South,Furniture,Corporate,Standard Class,41162.75,9299.3,7
+ORD0150,12/02/2025,West,Office Supplies,Consumer,Second Class,44673.8,11092.1,3
+ORD0151,25/10/2025,West,Technology,Consumer,First Class,44936.46,4191.18,4
+ORD0152,16/08/2025,West,Technology,Home Office,First Class,11247.26,1271.64,8
+ORD0153,22/07/2025,South,Technology,Consumer,Second Class,28001.08,3211.53,8
+ORD0154,04/01/2025,East,Furniture,Consumer,Second Class,2283.35,415.13,2
+ORD0155,06/06/2025,West,Furniture,Consumer,Standard Class,6965,1691.25,3
+ORD0156,07/05/2025,East,Technology,Consumer,Second Class,4853.67,1206.79,1
+ORD0157,08/07/2025,West,Office Supplies,Corporate,First Class,2003.53,311.18,5
+ORD0158,28/04/2025,South,Furniture,Consumer,Second Class,26457.69,3146.32,8
+ORD0159,17/09/2025,East,Furniture,Consumer,First Class,36830.47,6653.11,5
+ORD0160,13/12/2025,West,Technology,Corporate,Second Class,33662.46,7059.25,8
+ORD0161,27/07/2025,South,Furniture,Consumer,Standard Class,9767.52,1170.26,8
+ORD0162,18/12/2025,East,Technology,Home Office,First Class,37821.7,3763.82,3
+ORD0163,09/04/2025,South,Technology,Corporate,First Class,18257.02,1939.57,2
+ORD0164,24/01/2025,North,Furniture,Home Office,Standard Class,48707.43,3065.23,7
+ORD0165,01/02/2025,West,Office Supplies,Consumer,First Class,37243.38,2107.22,6
+ORD0166,21/07/2025,East,Technology,Home Office,Second Class,43161.15,7643.92,6
+ORD0167,16/02/2025,North,Technology,Consumer,Second Class,36044.95,7043.42,10
+ORD0168,12/01/2025,South,Technology,Consumer,Second Class,41161.88,6856.1,8
+ORD0169,06/05/2025,North,Furniture,Consumer,Standard Class,4512.43,515.36,4
+ORD0170,16/01/2025,North,Office Supplies,Consumer,Standard Class,6375,1044.34,8
+ORD0171,15/05/2025,East,Furniture,Corporate,Second Class,19242.8,2406.62,10
+ORD0172,06/05/2025,West,Office Supplies,Consumer,First Class,39155.09,3205.29,5
+ORD0173,16/05/2025,East,Technology,Consumer,First Class,19774.74,3672.22,1
+ORD0174,06/11/2025,West,Office Supplies,Corporate,Second Class,2820.61,426.71,5
+ORD0175,05/05/2025,North,Office Supplies,Consumer,Standard Class,23925.59,1733.58,4
+ORD0176,09/12/2025,South,Office Supplies,Consumer,Second Class,47092.77,8293.49,4
+ORD0177,14/01/2025,West,Technology,Home Office,Second Class,5648.33,368.96,7
+ORD0178,10/05/2025,North,Furniture,Home Office,First Class,39224.05,7907.32,6
+ORD0179,22/10/2025,West,Technology,Corporate,Standard Class,16042.09,3801.91,8
+ORD0180,27/05/2025,South,Office Supplies,Corporate,Second Class,45183.57,6008.22,2
+ORD0181,14/06/2025,South,Technology,Consumer,Standard Class,25987.89,1585.83,8
+ORD0182,21/06/2025,North,Technology,Home Office,Standard Class,45944.96,5562.32,8
+ORD0183,04/11/2025,West,Technology,Consumer,Second Class,37198.74,2319.68,8
+ORD0184,27/07/2025,West,Technology,Consumer,First Class,47939.87,7442.21,7
+ORD0185,09/04/2025,West,Technology,Consumer,First Class,41960.58,4284.92,2
+ORD0186,25/02/2025,South,Office Supplies,Corporate,First Class,46057.12,9284.18,7
+ORD0187,03/10/2025,North,Technology,Corporate,Standard Class,25545.96,1864.13,6
+ORD0188,31/08/2025,North,Technology,Corporate,Second Class,43137.92,6944.82,4
+ORD0189,11/09/2025,East,Furniture,Home Office,First Class,26045.76,2640.98,1
+ORD0190,06/07/2025,South,Office Supplies,Consumer,First Class,18503.4,1463.17,4
+ORD0191,01/09/2025,East,Office Supplies,Corporate,Second Class,30568.33,4978.85,2
+ORD0192,20/05/2025,South,Office Supplies,Consumer,Second Class,26114,3689.35,8
+ORD0193,10/05/2025,North,Technology,Consumer,Second Class,36872.45,4720.54,10
+ORD0194,11/02/2025,North,Office Supplies,Corporate,Second Class,16415.55,3280.66,9
+ORD0195,06/06/2025,South,Furniture,Home Office,Standard Class,8144.99,1869.27,7
+ORD0196,23/08/2025,North,Furniture,Home Office,First Class,32929.7,6738.65,9
+ORD0197,30/04/2025,South,Technology,Consumer,First Class,34148.14,8513.04,7
+ORD0198,24/05/2025,South,Technology,Home Office,Second Class,8763.36,2051.09,6
+ORD0199,28/12/2025,West,Technology,Consumer,Second Class,31925.27,2261.93,4
+ORD0200,06/10/2025,East,Office Supplies,Home Office,Second Class,6240.25,627.05,7
